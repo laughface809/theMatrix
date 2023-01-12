@@ -45,7 +45,7 @@ files for compliance directives.`
     class: "???",
     occupation: "???",
     employer: "???",
-    bio: `An unknown entity has been found testing
+    bio: `An unknown Agent, no objective with
 the boundary nodes of corporate compute space.
 Simulations have been unable
 to determine the threat level of the entity and
@@ -63,9 +63,9 @@ of non human origin.`
     occupation: "All Nation - Executor",
     employer: "Mercusuar",
     bio: `Verbose Alert: An AE Pharmaceuticals operative entered
-South West Corporate regional territory. Agents are advised to refer to Treaty #125-981
-for standard operating procedures. The field manager on duty
-for the duration of this incident is Sr. Director Thomas Wardley.
+South West Corporate regional territory. Agents are advised 
+to refer to Treaty #De3oN for standard operating procedures. 
+The Merger on duty for the duration of this incident.
 `
   },
   {
@@ -76,12 +76,12 @@ for the duration of this incident is Sr. Director Thomas Wardley.
     occupation: "All Nation- Justice",
     employer: "Caller",
     bio: `It is believed that the target has knowledge of
-President Langraffs final hours before his death and may
+All Nation final hours before his death and may
 have even been present. The source of this information has
 not been made available to the Inter Corporate knowledge
 sharing service as expressly permitted by the Knowledge Sharing
-Participation Contract of 2044. It is requested that
-Lydia be immediately detained and sedated for transport
+Participation Contract of ####. It is requested that
+Mega be immediately detained and sedated for transport
 to facility {REDACTED}
 `
   }
